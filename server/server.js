@@ -15,7 +15,7 @@ const io = require("socket.io")(server);
 const info = [
   {
     id: 1,
-    description: "Welcom to my chat",
+    description: "Welcome to my chat",
     nickname: "EyderDev"
   }
 ];
