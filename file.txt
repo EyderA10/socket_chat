@@ -1,0 +1,2 @@
+creando un chat con socket.io
+utilizando express para crear el server
